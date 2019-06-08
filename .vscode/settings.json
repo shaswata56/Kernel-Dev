@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "kernel.h": "c",
+        "sysinfo.h": "c",
+        "types.h": "c",
+        "posix_types.h": "c",
+        "stddef.h": "c"
+    }
+}
