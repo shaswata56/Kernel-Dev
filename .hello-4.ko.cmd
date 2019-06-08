@@ -1,1 +1,0 @@
-cmd_/home/shaswata56/projects/linux_kernel_module/hello-4.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/shaswata56/projects/linux_kernel_module/hello-4.ko /home/shaswata56/projects/linux_kernel_module/hello-4.o /home/shaswata56/projects/linux_kernel_module/hello-4.mod.o ;  true
