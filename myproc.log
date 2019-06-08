@@ -1,0 +1,5 @@
+[44803.708788] Module initialized...
+               Try to 'cat /proc/myproc'
+[44838.559499] Entered into open_file().
+[44838.559528] Entered into show_msg().
+[44858.465832] Removing Kernel module: myproc
