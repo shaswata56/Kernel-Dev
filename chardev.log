@@ -1,0 +1,9 @@
+Jun  8 21:25:38 manjaro kernel: I was assigned major number 236. To talk to
+Jun  8 21:25:38 manjaro kernel: the driver, create a dev file with
+Jun  8 21:25:38 manjaro kernel: 'mknod /dev/chardev c 236 0'.
+Jun  8 21:25:38 manjaro kernel: Try various minor numbers. Try to cat and echo to
+Jun  8 21:25:38 manjaro kernel: the device file.
+Jun  8 21:25:38 manjaro kernel: Remove the device file and module when done.
+Jun  8 21:30:56 manjaro kernel: Sorry, this operation is not supported!
+Jun  8 21:31:14 manjaro kernel: Sorry, this operation is not supported!
+Jun  8 21:41:27 manjaro kernel: Removed /dev/chardev

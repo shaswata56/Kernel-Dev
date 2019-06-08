@@ -1,5 +1,4 @@
-obj-m += multimod.o
-multimod-objs := start.o stop.o
+obj-m += chardev.o
 
 all:
 	make -C /lib/modules/$(shell uname -r)/build M=$(PWD) modules
